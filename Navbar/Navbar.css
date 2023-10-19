@@ -1,9 +1,15 @@
+/* ##################################   STYLING THE NAVBAR  ################################## */
+
+/* NAVBAR TITLE DESIGN */
+
 .navbar-brand b {
     color: #003C74;
     font-weight: bold;
     font-size: 40px;
     margin-left: 50px;
 }
+
+/* NAVBAR ITEMS DESIGN */
 
 .nav_item {
     margin-right: 100px;
@@ -12,6 +18,8 @@
     transition: 0.3s;
     font-size: 20px;
 }
+
+/* SIGNUP AND LOGIN BUTTON EFFECTS AND DESIGN */
 
 .nav_btn {
     transition: 0.3s;
